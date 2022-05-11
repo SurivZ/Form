@@ -1,0 +1,51 @@
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.deps.json
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.dll
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.pdb
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.csproj.AssemblyReference.cache
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.AssemblyInfoInputs.cache
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.AssemblyInfo.cs
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.csproj.CoreCompileInputs.cache
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\obj\Debug\netstandard2.0\XamlC.stamp
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.dll
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\obj\Debug\netstandard2.0\refint\Formulario.dll
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.pdb
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\obj\Debug\netstandard2.0\ref\Formulario.dll
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\obj\Debug\netstandard2.0\Dashboard.xaml.g.cs
+D:\escritorio\programacion 3.0\c#\Formulario\Formulario\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.deps.json
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.dll
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.pdb
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.csproj.AssemblyReference.cache
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Dashboard.xaml.g.cs
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.AssemblyInfoInputs.cache
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.AssemblyInfo.cs
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.dll
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\refint\Formulario.dll
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.pdb
+C:\Users\SurivZ\Downloads\Formulario\Formulario\Formulario\obj\Debug\netstandard2.0\ref\Formulario.dll
+C:\Users\SurivZ\Desktop\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.deps.json
+C:\Users\SurivZ\Desktop\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.dll
+C:\Users\SurivZ\Desktop\Formulario\Formulario\bin\Debug\netstandard2.0\Formulario.pdb
+C:\Users\SurivZ\Desktop\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.csproj.AssemblyReference.cache
+C:\Users\SurivZ\Desktop\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SurivZ\Desktop\Formulario\Formulario\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SurivZ\Desktop\Formulario\Formulario\obj\Debug\netstandard2.0\Dashboard.xaml.g.cs
+C:\Users\SurivZ\Desktop\Formulario\Formulario\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\SurivZ\Desktop\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.AssemblyInfoInputs.cache
+C:\Users\SurivZ\Desktop\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.AssemblyInfo.cs
+C:\Users\SurivZ\Desktop\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\SurivZ\Desktop\Formulario\Formulario\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SurivZ\Desktop\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.dll
+C:\Users\SurivZ\Desktop\Formulario\Formulario\obj\Debug\netstandard2.0\refint\Formulario.dll
+C:\Users\SurivZ\Desktop\Formulario\Formulario\obj\Debug\netstandard2.0\Formulario.pdb
+C:\Users\SurivZ\Desktop\Formulario\Formulario\obj\Debug\netstandard2.0\ref\Formulario.dll
+C:\Users\SurivZ\Desktop\Formulario\Formulario\obj\Debug\netstandard2.0\SignUp.xaml.g.cs

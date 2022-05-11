@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7XerAuL8649+HMlii5XmItjg757el9exUxOirdNAjuqHyAiBP5aSX9CD245sYe2KZV0gz5vLloRhOizqhZ5rQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SurivZ\\Desktop\\Formulario\\Formulario.iOS\\Formulario.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SurivZ\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\SurivZ\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\SurivZ\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

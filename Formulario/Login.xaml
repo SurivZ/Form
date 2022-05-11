@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Formulario" x:Class="Formulario.Login" BackgroundColor="#464545">
+    <ContentPage.BindingContext>
+        <local:User/>
+    </ContentPage.BindingContext>
+    <StackLayout Padding="0" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
+        <Frame BackgroundColor="#070225" Margin="20" CornerRadius="20" HasShadow="False" VerticalOptions="FillAndExpand">
+            <StackLayout VerticalOptions="Center" Spacing="30">
+                <Label Text="Login" HorizontalOptions="CenterAndExpand" FontSize="Title"/>
+                <Frame VerticalOptions="Center" Padding="15,5,15,5" CornerRadius="10">
+                    <Entry Placeholder="User" x:Name="User" PlaceholderColor="#a192a7" TextColor="#464540"/>
+                </Frame>
+                <Frame VerticalOptions="Center" Padding="15,5,15,5" CornerRadius="10">
+                    <Entry Placeholder="Password" IsPassword="True" PlaceholderColor="#a192a7" TextColor="#464540" x:Name="Password" />
+                </Frame>
+                <Button VerticalOptions="Center" Text="Login" TextColor="White" BackgroundColor="#070335" BorderColor="#070335" BorderWidth="2" CornerRadius="50" Clicked="btn_login_Clicked"></Button>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>
